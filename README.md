@@ -19,6 +19,3 @@ An end-to-end exploratory data analysis of the Superstore retail dataset, moving
 * **Data Visualization:** Matplotlib (Custom Legends, Dual-Axis, Scatter Quadrants)
 * **Environment:** Jupyter Notebook
 
-
-## 🚀 How to Run Locally
-```  git clone [https://github.com/funtomhives/superstore-profit-analytics.git](https://github.com/YOUR-USERNAME/superstore-profit-analytics.git) ```
